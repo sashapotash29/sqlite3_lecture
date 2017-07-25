@@ -48,3 +48,7 @@ conn.commit()
 - Then, we create a cursor object which is an object that can run SQL commands on the database. Think of Cursor as the navigator who you can provide directions for where to go.
 - .execute() takes a SQL command as a string and executes on the table/database.
 - Finally, .commit() allows to commit your changes to the database. That means that the changes made should be saved. For more info, look up "SQL rollback transaction".
+
+### Resources 
+- SQLite3 Documentation
+	- https://www.sqlite.org/docs.html
