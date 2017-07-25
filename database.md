@@ -2,9 +2,9 @@
 
 ## SQL COMMANDS
 
-### Create Database
+### Create Table
 ```
-CREATE DATABASE employees (
+CREATE TABLE employees (
 		id INTEGER PRIMARY KEY AUTOINCREMENT,
 		firstName TEXT,
 		lastName TEXT,
@@ -13,7 +13,7 @@ CREATE DATABASE employees (
 )
 ```
 
-- The structure of the command for creating a database is shown above. After "CREATE DATABASE", the name of the table is written and then within the parentheses are what each column is called, followed by the data type expected.
+- The structure of the command for creating a TABLE is shown above. After "CREATE TABLE", the name of the table is written and then within the parentheses are what each column is called, followed by the data type expected.
 
 ### SELECT STATEMENT
 ```
