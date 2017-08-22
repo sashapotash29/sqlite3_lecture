@@ -34,5 +34,17 @@ Hints: divmod(a, b)
 https://en.wikipedia.org/wiki/Roman_numerals
 ```
 
+Excercise 6:
+
+- Create a function that will take in two numbers as parameters. The functions job will be able to evaluate how many times one number needs to be increased by itself in order to be divided by the other number without any remainder. The function should print what the number is and how many times the first number was increased.
+- For example,
+```
+3,4 ==> remainder of 1
+6,4 ==> remainder of 2
+9,4 ==> remainder of 1
+12,4 ==> remainder of 0
+```
+
+
 
 
