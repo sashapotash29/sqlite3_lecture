@@ -34,7 +34,7 @@ Hints: divmod(a, b)
 https://en.wikipedia.org/wiki/Roman_numerals
 ```
 
-Excercise 6:
+Exercise 6:
 
 - Create a function that will take in two numbers as parameters. The functions job will be able to evaluate how many times one number needs to be increased by itself in order to be divided by the other number without any remainder. The function should print what the number is and how many times the first number was increased.
 - For example,
@@ -43,6 +43,24 @@ Excercise 6:
 6,4 ==> remainder of 2
 9,4 ==> remainder of 1
 12,4 ==> remainder of 0
+```
+
+Exercise 7 - Reverse Polish Notation:
+
+- For whatever reason, people in Poland put there numbers first and the the operator.
+- For example:
+```
+3 4 + = 7
+4 2 / = 2
+3 4 - 5 + = 4
+```
+- Write a function that will take in the string, and print or return the answer to the arithmetic operation.
+
+Exercise 8 - Factorial:
+
+- Write a function that will calculate the factorial of a given number passed in as a parameter.
+```
+factorial(5) ====> 120
 ```
 
 
