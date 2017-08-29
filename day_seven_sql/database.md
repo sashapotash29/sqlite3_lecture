@@ -13,6 +13,9 @@ CREATE TABLE employees (
 )
 ```
 
+
+
+
 - The structure of the command for creating a TABLE is shown above. After "CREATE TABLE", the name of the table is written and then within the parentheses are what each column is called, followed by the data type expected.
 
 ### SELECT STATEMENT

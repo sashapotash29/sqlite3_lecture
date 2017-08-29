@@ -9,7 +9,9 @@ conn = sqlite3.connect(db)
 c = conn.cursor()
 
 
+
 # IF TABLE ALREADY EXISTS
+
 conn.execute('DROP TABLE student_info')
 conn.commit()
 
